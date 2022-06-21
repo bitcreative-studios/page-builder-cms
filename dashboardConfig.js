@@ -18,16 +18,16 @@ export default {
                 'NOTE: Because these sites are static builds, they need to be re-deployed to see the changes when documents are published.',
               sites: [
                 {
-                  buildHookId: '62ae9cc0aa8c747569b7c8e5',
+                  buildHookId: '62b10f57aa8c742f4eb7c8ae',
                   title: 'Sanity Studio',
-                  name: 'sanity-nextjs-landing-pages-template-studio',
-                  apiId: '1b9b9116-2795-4085-acf5-5122a2a3f906'
+                  name: 'page-builder-cms',
+                  apiId: 'd9cd68e7-fe04-4894-98e6-39e6ddd71021'
                 },
                 {
-                  buildHookId: '62ae9cc0d39be77d9cd49389',
+                  buildHookId: '62b10fe6b37d4a3af699cd3e',
                   title: 'Landing pages Website',
-                  name: 'sanity-nextjs-landing-pages-template',
-                  apiId: 'd677f54c-6100-4fc0-8329-69e77490c8f9'
+                  name: 'headless-landing-page',
+                  apiId: 'fe849295-d763-421b-8205-047a1b96c519'
                 }
               ]
             }
